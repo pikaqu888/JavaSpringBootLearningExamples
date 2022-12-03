@@ -1,0 +1,1 @@
+INSERT INTO CARS VALUES (1, 'A', 'Blue');
